@@ -1,4 +1,4 @@
-This page covers the Terms of Service (Terms) and Privacy Policy of the Discord Bot **Yuzu**
+This page covers the Terms of Service (Terms) and Privacy Policy of the Discord Bot **Treo**
 
 # Terms of Service
 ## Usage Agreement
@@ -25,13 +25,13 @@ We reserve the right to update these terms at our own discretion, giving you a 1
 You may opt out by Removing the bot from any Server you have the rights for.
 
 ## Contact
-If you have any questions or concerns about these Terms, please contact us at [official Support Discord of the Bot](https://discord.com/api/oauth2/authorize?client_id=1024893673080635483&permissions=8&scope=bot%20applications.commands).
-If the above-mentioned Discord Support Server is not available, an invite for the support server can be retrieved using the `invite` command, or please DM Excriyin#8519 on Discord.
+If you have any questions or concerns about these Terms, please contact us at [official Support Discord of the Bot](https://discord.gg/Y457mstEDz).
+If the above-mentioned Discord Support Server is not available please dm DEVANSH#4075 on Discord.
 
 # Privacy Policy
 ## Usage of Data
 The bot may use stored data for different purposes, including but not limited to:
-- Storing the guild-specific settings of the bot (Corresponding commands are prefixed with 'set' and 'clear')
+- Storing the guild-specific settings of the bot (Corresponding commands)
 - Providing the command handling of the bot
 - Feature usage
 
@@ -41,7 +41,6 @@ No usage of data outside the aforementioned cases will happen and under no circu
 The bot may store the following  information upon a User using  Certain Commands:
 
 -Their Database is stored within mongodb and kept privately in my files 
--Their playlists  is stored when using the playlist command feature.
 
 No other information outside the above-mentioned one will be stored AUTOMATICALLY.
 
